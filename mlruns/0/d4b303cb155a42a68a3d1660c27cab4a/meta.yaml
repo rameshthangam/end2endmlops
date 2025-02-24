@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jananiselvaraj/Downloads/AI_ML_Projects/mlops/end2endmlops/mlruns/0/d4b303cb155a42a68a3d1660c27cab4a/artifacts
+end_time: 1740433394252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4b303cb155a42a68a3d1660c27cab4a
+run_name: debonair-mouse-32
+run_uuid: d4b303cb155a42a68a3d1660c27cab4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740433384019
+status: 4
+tags: []
+user_id: jananiselvaraj
