@@ -3,7 +3,7 @@ name: Deplot to ECR
 on:
   push:
     branches:
-      - master
+      - main
     paths-ignore:
       - 'README.md'
 
